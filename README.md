@@ -1,5 +1,5 @@
-<h1 align="center"> 🧑‍🌾2022 First Half Gardeners </h1>
-<!-- 🧑‍🌾2022 Second Half Gardeners -->
+<h1 align="center"> 🧑‍🌾 2022 First Half Gardeners </h1>
+<!-- 🧑‍ 🌾2022 Second Half Gardeners -->
 
 
 
