@@ -3,7 +3,7 @@
 <!-- 커밋 실패 : #800000 --> <!-- Maroon -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 385 11" width="385" height="32">
     <g>
-        <rect class="day" x="5" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 1 -->
+        <rect class="day" x="5" y="-8" width="11" height="11" fill="#800000" rx="2" ry="2"/> <!-- 1 -->
   
         <rect class="day" x="5" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 26 -->
 
