@@ -5,7 +5,7 @@
     <g>
         <rect class="day" x="5" y="-8" width="11" height="11" fill="#800000" rx="2" ry="2"/> <!-- 1 -->
   
-        <rect class="day" x="5" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 26 -->
+        <rect class="day" x="5" y="8" width="11" height="11" fill="#008000" rx="2" ry="2"/> <!-- 26 -->
 
         <rect class="day" x="20" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 2 -->
   
