@@ -1,4 +1,4 @@
-<h1 align="center"> 🧑‍🌾 2022 First Half Gardeners </h1>
+<h1 align="center"> 🧑‍🌾 2022 Second Half Gardeners </h1>
 <!-- 🧑‍ 🌾2022 Second Half Gardeners -->
 
 
@@ -13,17 +13,17 @@
 
 <!-- http://patorjk.com/software/taag/#p=display&f=Ogre&t=X%20%20%20%2F%20%20%2050 -->
 <pre align="center">
- ____         __    ____   ___  
-|___ \       / /   | ___| / _ \ 
-  __) |     / /    |___ \| | | |
- / __/     / /      ___) | |_| |
-|_____|   /_/      |____/ \___/ 
+  __          __    ____   ___  
+ / /_        / /   | ___| / _ \ 
+| '_ \      / /    |___ \| | | |
+| (_) |    / /      ___) | |_| |
+ \___/    /_/      |____/ \___/ 
                                 
 </pre>
 
 
 <div align="right">
- <sup><sub>2022-09-21-01:59 updated</sub></sup>
+ <sup><sub>2022-09-25-22:32 updated</sub></sup>
 </div>
 
 
