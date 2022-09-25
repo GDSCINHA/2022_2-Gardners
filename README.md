@@ -44,13 +44,13 @@
     <td align="left"><a href="https://github.com/sungsiyul"><img src="https://avatars.githubusercontent.com/u/86465983?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/sunnyinha.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/sungsiyul">성시열</a><br /></sup></td>
  </tr>
   <tr>
-    <td align="left"><a href="https://github.com/Jimin0430"><img src="https://avatars.githubusercontent.com/u/105258203?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/sunnyinha.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/Jimin0430">최지민</a><br /></sup></td>
+    <td align="left"><a href="https://github.com/Jimin0430"><img src="https://avatars.githubusercontent.com/u/105258203?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/Jimin0430.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/Jimin0430">최지민</a><br /></sup></td>
  </tr>
  <tr>
-    <td align="left"><a href="https://github.com/deEdenKim"><img src="https://avatars.githubusercontent.com/u/101259627?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/sunnyinha.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/deEdenKim">김서현</a><br /></sup></td>
+    <td align="left"><a href="https://github.com/deEdenKim"><img src="https://avatars.githubusercontent.com/u/101259627?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/deEdenKim.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/deEdenKim">김서현</a><br /></sup></td>
  </tr>
  <tr>
-    <td align="left"><a href="https://github.com/hamzzi0097"><img src="https://avatars.githubusercontent.com/u/81970551?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/sunnyinha.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/hamzzi0097">김태현</a><br /></sup></td>
+    <td align="left"><a href="https://github.com/hamzzi0097"><img src="https://avatars.githubusercontent.com/u/81970551?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/hamzzi0097.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/hamzzi0097">김태현</a><br /></sup></td>
  </tr>
  <tr>
     <td align="left"><a href="https://github.com/Hameast"><img src="https://avatars.githubusercontent.com/u/80018275?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/Hameast.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/Hameast">함동균</a><br /></sup></td>

@@ -11,19 +11,19 @@
   
         <rect class="day" x="20" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 27 -->
 
-        <rect class="day" x="35" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 3 -->
+        <rect class="day" x="35" y="-8" width="11" height="11" fill="#008000" rx="2" ry="2"/> <!-- 3 -->
   
         <rect class="day" x="35" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 28 -->
 
-        <rect class="day" x="50" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 4 -->
+        <rect class="day" x="50" y="-8" width="11" height="11" fill="#008000" rx="2" ry="2"/> <!-- 4 -->
   
         <rect class="day" x="50" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 29 -->
 
-        <rect class="day" x="65" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 5 -->
+        <rect class="day" x="65" y="-8" width="11" height="11" fill="#008000" rx="2" ry="2"/> <!-- 5 -->
   
         <rect class="day" x="65" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 30 -->
 
-        <rect class="day" x="80" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 6 -->
+        <rect class="day" x="80" y="-8" width="11" height="11" fill="#008000" rx="2" ry="2"/> <!-- 6 -->
   
         <rect class="day" x="80" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 31 -->
 
