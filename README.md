@@ -41,7 +41,7 @@
     <td align="left"><a href="https://github.com/ThinkingVincent"><img src="https://avatars.githubusercontent.com/u/103738589?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/ThinkingVincent.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/ThinkingVincent">이재백</a><br /></sup></td>
  </tr>
    <tr>
-    <td align="left"><a href="https://github.com/sungsiyul"><img src="https://avatars.githubusercontent.com/u/86465983?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/ThinkingVincent.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/sungsiyul">성시열</a><br /></sup></td>
+    <td align="left"><a href="https://github.com/sungsiyul"><img src="https://avatars.githubusercontent.com/u/86465983?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/sungsiyul.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/sungsiyul">성시열</a><br /></sup></td>
  </tr>
   <tr>
     <td align="left"><a href="https://github.com/Jimin0430"><img src="https://avatars.githubusercontent.com/u/105258203?v=4" width="50px;"/></a>&nbsp;&nbsp;<img src="./svg/Jimin0430.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/Jimin0430">최지민</a><br /></sup></td>
